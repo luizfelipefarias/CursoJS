@@ -29,8 +29,6 @@ Cada pasta corresponde a uma aula do curso, contendo os arquivos e códigos rela
 
 ## 🧠 Conteúdo Abordado
 
-Embora o repositório não forneça uma descrição detalhada de cada aula, é comum que cursos de JavaScript incluam os seguintes tópicos:
-
 - Introdução ao JavaScript  
 - Variáveis e Tipos de Dados  
 - Operadores  
