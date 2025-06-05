@@ -81,7 +81,7 @@ Para aproveitar ao máximo os exemplos e exercícios:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Luiz Felipe de Sousa Faria](https://github.com/luizfelipefarias).  
+Desenvolvido por [Luiz Felipe Farias Braz da silva](https://github.com/luizfelipefarias) com a ajuda do curso de javascript da [UDEMY(https://www.udemy.com/?utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=4Jbpb5%2FVoHU&ranMID=47907&ranEAID=4Jbpb5%2FVoHU&ranSiteID=4Jbpb5_VoHU-QKoqWi.C2cIKF.oxXY_aAQ&utm_campaign=22618048465&utm_term=udemy&utm_content=755095411375&gclid=CjwKCAjw3f_BBhAPEiwAaA3K5GpI_BrZVPuWHzhB4MZIupqa7-fIlbsZp9Fg_3sqd8TXPZ4cNQJcshoCQnsQAvD_BwE&gad_source=1&gad_campaignid=22618048465&gbraid=0AAAAA_GGTv1PiY-yCqhvxBrLbcxLZ8VBq)].  
 Para mais projetos e contribuições, visite seu perfil no GitHub.
 
 ---
